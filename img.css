@@ -1,0 +1,152 @@
+#img{
+  width: 150px;
+  margin-left: 100px;
+}
+
+#run{
+    width: 190px;
+    height: auto;
+    margin-left: 80px;
+}
+
+#red{
+    color: red;
+    font-size: 20px;
+    margin-left: 120px;
+}
+
+#black{
+    margin-left: 120px;
+    font-size: 60px;
+    color:white ;
+
+}
+
+#bcolor{
+   background-image: url(plane.jpeg);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-attachment: scroll;
+   background-size: 100%;
+   height: 590px;
+}
+
+#Track{
+    color: black;
+    margin-left: 130px;
+}
+
+#van{
+    margin-bottom: 1000px;
+    width: 1000px;
+}
+
+#color{
+    background-color: blue;
+    background-attachment: scroll;
+    height: 900px;
+    margin-right: 500px;
+    width: 1330px;
+    margin-bottom: 0px;
+}
+
+#shiip{
+width: 40%;
+height: 900px;
+float: right;
+margin-right: 0px;
+width: 700px;
+}
+
+#sec1{
+color: white;
+margin-bottom: 100px;
+font-size: 20px;
+text-align: left;
+
+}
+
+#sec2{
+    display: flex;
+}
+
+#b33{
+margin-right: 60px;
+}
+
+#sec5{
+    color: white;
+    margin-bottom: 100px;
+    font-size: 20px;
+    text-align: left;
+    
+    }
+    
+    #sec3{
+        display: flex;
+        color: white;
+        margin-left: 10px;
+    }
+
+    #water{
+        height: 150%;
+        width: 1330px;
+    }
+
+    #truckk{
+        margin-top: 500px;
+        
+    }
+
+#icon{
+    width: 1000px;
+    display: flex;
+    margin-left: 120px;
+}
+
+h2{
+    margin-top: 40px;
+    color: white;
+}
+
+#count{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+#mumu{
+    margin-left: 400px;
+    color: white;
+    font-size: 23px;
+}
+
+#b12{
+    margin-right: 20px;
+
+}
+
+
+#b14{
+    margin-left: 20px;
+}
+
+#b15{
+    margin-left: 20px;
+}
+
+#b16{
+    margin-left: 20px;
+}
+
+#textt{
+background-image: url(water.jpeg);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: 100%;
+height: 600px;
+background-color: blue;
+}
+
+#p5555{
+margin-left: 800px;
+}
